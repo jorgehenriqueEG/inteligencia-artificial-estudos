@@ -31,5 +31,5 @@ Este repositório está sendo atualizado continuamente conforme avanços nos est
 
 ---
 
-📫 Entre em contato: [seu email ou LinkedIn aqui]
+📫 Entre em contato: [jorgehenriqueavitorino@hotmail.com]
 
