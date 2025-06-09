@@ -305,11 +305,9 @@ if __name__ == "__main__":
 # criar um método para carregar o jogo (linha 167)
 # criar um método para reiniciar o jogo (linha 170)
 # criar um método para salvar o jogo em um arquivo (linha 173)
-# tlvz criar um sql para salvar e melhorar a performace (discutir com o povo dps)
+# tlvz criar um sql para salvar e melhorar a performace 
 # analisar o desempenho da IA (e discutir melhorias)
 # procurar um metodo de aprendizado de máquina para melhorar a IA 
 # entender o que é um algoritmo de aprendizado de máquina
 # e como ele pode ser aplicado ao jogo de campo minado
-# discutir com o professor sobre a possibilidade de usar aprendizado de máquina
-# e como isso pode ser implementado no jogo de campo minado
 
